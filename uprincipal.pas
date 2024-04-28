@@ -205,7 +205,7 @@ begin
     add('     Qry.Connection:=ConexaoDB;');
     add('     Qry.SQL.Clear;');
     add('     Qry.SQL.Add(''update from '+DblkpTabela.text +''' + ');
-
+    add(' ');
 
     add('{$endRegion}');
     add('end.');
