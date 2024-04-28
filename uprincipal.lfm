@@ -779,7 +779,7 @@ object FrmPrincipal: TFrmPrincipal
     User = 'root'
     Password = '123456'
     Protocol = 'MariaDB-10'
-    LibraryLocation = 'C:\trab\lazarus\gerador_classe\dll\libmariadb.dll'
+    LibraryLocation = 'C:\trab\lazarus\lzGeradorClasse\dll\libmariadb.dll'
     Left = 634
     Top = 97
   end
